@@ -1,3 +1,15 @@
+/*CMD
+  command: /stats
+  help: 
+  need_reply: 
+  auto_retry_time: 
+  folder: 
+  answer: 
+  keyboard: 
+  aliases: 
+CMD*/
+
+
 let webPage =
   "https://m.youtube.com/shorts/"
 Api.sendMessage({
